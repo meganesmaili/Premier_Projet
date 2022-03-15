@@ -1,0 +1,27 @@
+#FirstTitle
+{
+    color: blueviolet;
+    font-weight: bolder;
+}
+body
+{
+    background-color: tan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li
+{
+    color: aquamarine;
+    font-size: large;
+    font-style: italic;
+}
+.navBar
+{
+    color: crimson;
+    font-style: inherit;
+}
+p 
+{
+    color: mediumpurple;
+    font-size: 50px;
+}
